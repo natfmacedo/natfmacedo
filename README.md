@@ -5,15 +5,14 @@
 Me chamo Natália, tenho 20 anos, sou graduada em Análise e Desenvolvimento de Sistemas pelo Centro Universitário do Vale do Ribeira (UNIVR) e pós-graduanda em Desenvolvimento Full-Stack pela Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS). 👩🏻‍🎓 <br>
 Atualmente também me dedico a aprender sobre acessibilidade web e UX/UI Design, além de aperfeiçoar meus conhecimentos em desenvolvimento front-end, área que viso atuar.
 
-<a href="mailto:nfelixmacedo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/nataliafelixm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="mailto:nfelixmacedo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D42050?style=flat&logo=gmail&logoColor=white" width=80></a> <a href="https://www.linkedin.com/in/nataliafelixm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-D42050?style=flat&logo=linkedin&logoColor=white" width=100></a> 
 
 ## Linguagens e Tecnologias 
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width=70 /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width=60 /> <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width=100 /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"  width=56 /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"  width=42 /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" width=50 /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width=45 /> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=00599C" width=72 /> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=00599C" /> 
 
 ### Em aprendizado:
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width=70 /> <img src="https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=node.js&logoColor=43853D" width=80 /> <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=E34F26" width=55/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-white?style=flat&logo=node.js&logoColor=43853D" /> <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=E34F26" />
            
 <!--<img src="https://i.postimg.cc/nLzjG9jK/327181086-1226088594983736-4445367260896923403-n.png" width="100" height="100">
 
