@@ -2,11 +2,11 @@
 
 <!--<img src="https://i.postimg.cc/FHR4nrTV/IMG-2912.png" width=200 height=200>-->
 
-Me chamo Natália, tenho 20 anos, sou graduada em Análise e Desenvolvimento de Sistemas pelo Centro Universitário do Vale do Ribeira (UNIVR) e pós-graduanda em Desenvolvimento Full-Stack pela Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS). 👩🏻‍🎓 <br>
+Me chamo Natália, tenho 21 anos, sou graduada em Análise e Desenvolvimento de Sistemas pelo Centro Universitário do Vale do Ribeira (UNIVR) e pós-graduanda em Desenvolvimento Full-Stack pela Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS). 👩🏻‍🎓 <br>
 Atualmente também me dedico a aprender sobre acessibilidade web e UX/UI Design, além de aperfeiçoar meus conhecimentos em desenvolvimento front-end, área que viso atuar.
 
-![Gmail: nfelixmacedo@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:nfelixmacedo@gmail.com)
-![Linkedin: nataliafelixm](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nataliafelixm/)
+[![Gmail: nfelixmacedo@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nfelixmacedo@gmail.com)
+[![Linkedin: nataliafelixm](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nataliafelixm/)
 
 ## Linguagens e Tecnologias 
 
