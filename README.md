@@ -5,14 +5,22 @@
 Me chamo Natália, tenho 20 anos, sou graduada em Análise e Desenvolvimento de Sistemas pelo Centro Universitário do Vale do Ribeira (UNIVR) e pós-graduanda em Desenvolvimento Full-Stack pela Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS). 👩🏻‍🎓 <br>
 Atualmente também me dedico a aprender sobre acessibilidade web e UX/UI Design, além de aperfeiçoar meus conhecimentos em desenvolvimento front-end, área que viso atuar.
 
-<a href="mailto:nfelixmacedo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D42050?style=flat&logo=gmail&logoColor=white" width=80></a> <a href="https://www.linkedin.com/in/nataliafelixm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-D42050?style=flat&logo=linkedin&logoColor=white" width=100></a> 
+![Gmail: nfelixmacedo@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:nfelixmacedo@gmail.com)
+![Linkedin: nataliafelixm](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nataliafelixm/)
 
 ## Linguagens e Tecnologias 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=00599C" /> 
 
-### Em aprendizado:
-
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-white?style=flat&logo=node.js&logoColor=43853D" /> <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=E34F26" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
            
 <!--<img src="https://i.postimg.cc/nLzjG9jK/327181086-1226088594983736-4445367260896923403-n.png" width="100" height="100">
 
