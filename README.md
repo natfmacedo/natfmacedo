@@ -28,7 +28,9 @@ Atualmente também me dedico a aprender sobre acessibilidade web e UX/UI Design,
 ![Supabase](https://img.shields.io/badge/Supabase-black?style=flat-square&logo=supabase&logoColor=3ECF8E)
 ![Cypress](https://img.shields.io/badge/-Cypress-%23E5E5E5?style=flat-square&logo=cypress&logoColor=058a5e)
 ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
-![Next JS](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel&logoColor=white)
+![Github Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel&logoColor=white)
+
            
 <!--<img src="https://i.postimg.cc/nLzjG9jK/327181086-1226088594983736-4445367260896923403-n.png" width="100" height="100">
 
